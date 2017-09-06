@@ -1,0 +1,7 @@
+[package]
+authors = ["plainbanana <kazukidegozaimasuruzo@gmail.com>"]
+name = "minecord-rust"
+version = "0.0.1"
+
+[dependencies]
+serenity = "0.3.0"
